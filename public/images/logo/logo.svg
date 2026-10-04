@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <rect width="160" height="160" rx="4" fill="#14352C"/>
+  <path d="M38 118 V74 C38 40 122 40 122 74 V118" fill="none" stroke="#F7F3EB" stroke-width="4"/>
+  <path d="M54 118 V78 C54 56 106 56 106 78 V118" fill="none" stroke="#C6A15B" stroke-width="2"/>
+  <polygon points="80.0,66.0 83.6,74.4 92.0,78.0 83.6,81.6 80.0,90.0 76.4,81.6 68.0,78.0 76.4,74.4" fill="#C6A15B"/>
+</svg>
