@@ -8,7 +8,7 @@ export const siteConfig = {
   slogan: "Un riad confidentiel, une hospitalité lumineuse",
   description:
     "Dar El Yasmine est un riad de charme à Marrakech : patio planté, chambres calmes et accueil attentionné au cœur de la médina. Les séjours se demandent directement auprès de la maison.",
-  url: "https://www.dar-el-yasmine.example",
+  url: "https://template-hotel-eta.vercel.app",
   logo: "/images/logo/logo.svg",
   /** Passez à true si le fichier logo contient déjà le nom de l'établissement. */
   logoIncludesName: false,
